@@ -1,0 +1,13 @@
+Class,Precision,Recall,F1-score,Support,Model
+glioma,0.92,0.70,0.80,400,CNN
+meningioma,0.77,0.81,0.79,400,CNN
+notumor,0.78,1.00,0.88,400,CNN
+pituitary,0.98,0.90,0.94,400,CNN
+glioma,0.42,0.75,0.54,400,ResNet50
+meningioma,0.39,0.24,0.30,400,ResNet50
+notumor,0.80,0.39,0.52,400,ResNet50
+pituitary,0.58,0.64,0.61,400,ResNet50
+glioma,0.51,0.83,0.63,400,MobileNetV2
+meningioma,0.68,0.46,0.55,400,MobileNetV2
+notumor,0.85,0.91,0.88,400,MobileNetV2
+pituitary,0.92,0.58,0.71,400,MobileNetV2
